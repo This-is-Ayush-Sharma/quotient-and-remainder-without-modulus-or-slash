@@ -1,0 +1,13 @@
+Step 1: Start
+Step 2: accept  divisor, dividend
+Step 3: let flag , i, j
+Step 4: set flag=0
+Step 5: for (i = divisor to 1) decrement 1
+            Step 5.1: for(j = I to i) increment 1
+                           Step 5.1.1: if((j * dividend) = i)
+			Step 5.1.1.1: flag=1;
+			Step 5.1.1.2: Display "quotient and remainder is", j, divisor-(j * dividend)
+			Step 5.1.1.3: break
+	Step 5.2: if(flag = 1)
+	Step 5.2.1: break;
+Step 6: Stop
