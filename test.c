@@ -11,8 +11,8 @@ int main()
 			if((j*d)==i)
 			{
 			    flag=1;
-				printf("quotient is %d \nremainder is %d",j,div-(j*d));
-				break;
+			    printf("quotient is %d \nremainder is %d",j,div-(j*d));
+			    break;
 			}
 		}
 		if(flag==1)
