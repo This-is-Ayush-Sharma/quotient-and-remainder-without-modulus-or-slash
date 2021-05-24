@@ -1,2 +1,3 @@
 # quotient-and-remainder-without-/or-%
 quotient-and-remainder-without-%or/
+# for more understanding refer to the algorithm......
