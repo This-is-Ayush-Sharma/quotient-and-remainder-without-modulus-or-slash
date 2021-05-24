@@ -2,6 +2,7 @@
 int main()
 {
     int div,d,flag=0;
+    printf("please enter the divisor and dividend\n");
     scanf("%d%d",&div,&d);
 	int i,j;
 	for(i=div;i>0;i--)
